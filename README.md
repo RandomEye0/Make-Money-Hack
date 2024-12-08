@@ -28,4 +28,5 @@ Before you start, make sure your system meets these requirements:
 3) got to: chrome://extensions/
 4) In the top right corner there sould be a switch that says develepor mode: click it
 5) Click the load unpacked button and import the game folder
-6) Enjoy (:
+6) Open the game and click the key "X"
+7) Enjoy :D
